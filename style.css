@@ -246,14 +246,14 @@ form input:focus {
 .parag2 p {
     color: #678e61;
     font-size: 25px;
-    padding: 10px 100px;
+    padding: 10px 0px;
     padding-top: 100px;
 }
 
 .parag2 span {
     font-size: 50px;
     font-weight: 600;
-    padding: 10px 100px;
+    padding: 10px 0px;
 }
 
 
@@ -261,7 +261,6 @@ form input:focus {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 100px;
     gap: 30px;
 }
 
@@ -269,7 +268,7 @@ form input:focus {
     text-decoration: none;
     color: black;
     font-size: 20px;
-    padding-top: 150px;
+    padding: 100px 0px;
 }
 
 
@@ -277,8 +276,7 @@ form input:focus {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 100px;
-    padding-top: 0px;
+    padding: 20px 0px;
 
 }
 
@@ -289,7 +287,7 @@ form input:focus {
 }
 
 .product a img {
-    width: 310px;
+    width: 300px;
     border-radius: 10px;
 }
 
